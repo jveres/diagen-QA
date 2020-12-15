@@ -1,5 +1,5 @@
-# diagen
-Generate sankey diagrams
+# diagen - with Github Actions
+Generate sankey diagrams / forked from [@jveres/diagen](https://github.com/jveres/diagen)
 
 Based on https://observablehq.com/@jveres/colorful-flow-o-matic
 
