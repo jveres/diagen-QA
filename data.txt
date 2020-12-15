@@ -26,7 +26,7 @@ Architecture design,Business arch,25
 Architecture design,Solution arch,25
 Architecture design,Software arch,25
 Architecture design,Security arch,25
-QA,DevSecOps,400
+QA,DevSecOps,500
 DevSecOps,Observability,100
 Observability,Logging,33
 Observability,Metrics,33
