@@ -57,7 +57,7 @@ In-production testing,A/B test,35
 In-production testing,Canary,35
 In-production testing,Dark launching,35
 In-production testing,Dark traffic,35
-Testing,Non-functional testing,250
+Testing,Non-functional testing,300
 Non-functional testing,Security ,50
 Non-functional testing,Resilience,50
 Non-functional testing,Compatibility,50
