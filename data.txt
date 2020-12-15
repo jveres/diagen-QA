@@ -1,18 +1,87 @@
-Berlin,Job Applications,102
-Barcelona,Job Applications,39
-Madrid,Job Applications,35
-Amsterdam,Job Applications,15
-Paris,Job Applications,14
-London,Job Applications,6
-Munich,Job Applications,5
-Brussels,Job Applications,4
-Dubai,Job Applications,3
-Dublin,Job Applications,3
-Other Cities,Job Applications,12
-Job Applications,No Response,189,orange
-Job Applications,Responded,49,purple
-Responded,Rejected,38
-Responded,Interviewed,11,red
-Interviewed,No Offer,8
-Interviewed,Declined Offer,5
-Interviewed,Accepted Offer,3
+QA,Requirement Engineering,200
+Requirement Engineering,Requirement types & structure,50
+Requirement Engineering,Issue types & workflows,100
+Requirement Engineering,DoRs/DoDs,50
+QA,Culture & structure,300
+Culture & structure,CoP,100
+CoP,Product based,33
+CoP,Product-line based,33
+CoP,Test chapter,33
+Culture & structure,Roles & responsibilities,100
+Culture & structure,Education & training,100
+Roles & responsibilities,Team setup,33
+Roles & responsibilities,Ownership,33
+Roles & responsibilities,Self-learning,33
+QA,Development standards,233
+Development standards,Coding standards,40
+Development standards,Secure coding,40
+Development standards,Technical documentation,37
+Development standards,Branching strategy,33
+Development standards,Project start checklist,33
+Development standards,Tech radar,50,orange
+QA,Architecture,400
+Architecture,Architecture design,100
+Architecture,Emerging architecture,100
+Architecture design,Business arch,33
+Architecture design,Solution arch,33
+Architecture design,Software arch,33
+Architecture design,Security arch,33
+QA,DevSecOps,400
+DevSecOps,Observability,100
+Observability,Logging,33
+Observability,Metrics,33
+Observability,Tracing,33
+DevSecOps,Automation,100
+DevSecOps,Threat model,100
+DevSecOps,Defense in-depth measures,100
+DevSecOps,CI/CD/CD,100
+QC,CI/CD/CD,100
+QA,QC,1200
+QC,Testing,900,orange
+QC,Code reviews,50
+QC,Defect management,50
+QC,Measurements & KPIs,50
+QC,Test plan,50
+Testing,Functional testing,400
+Functional testing,Pre-production testing,250
+Functional testing,In-production testing,150
+Pre-production testing,Unit test,31
+Pre-production testing,Integration test,31
+Pre-production testing,Component test,31
+Pre-production testing,Component acceptance test,31
+Pre-production testing,System integration test,31
+Pre-production testing,System acceptance test,31
+Pre-production testing,User acceptance test,31
+Pre-production testing,Contract test,31
+In-production testing,A/B test,35
+In-production testing,Canary,35
+In-production testing,Dark launching,35
+In-production testing,Dark traffic,35
+Testing,Non-functional testing,250
+Non-functional testing,Security ,50
+Non-functional testing,Resilience,50
+Non-functional testing,Compatibility,50
+Non-functional testing,Accessibility,50
+Non-functional testing,Performance,50
+Non-functional testing,Scalability,50
+Performance,Load test,7
+Performance,Stress test,7
+Performance,Volume test,7
+Test types,Regression/Retest,20
+Test types,Exploratory test,20
+Test types,Smoke test,20
+Testing,Test process,270
+Test process,Test types, 50
+Test process,Test development methods, 50
+Test process,Test data management, 30
+Test process,Test design techniques, 30
+Test process,Manual test process, 30
+Test process,Test targets, 30
+Test process,Test reporting, 30
+Test process,Test environments, 30
+Test development methods,White/Grey/Black-box,20
+Test development methods,(A)TDD/BDD,20
+Test development methods,Risk-based testing,20
+Test targets,Mobile app testing,10
+Test targets,Frontend testing,10
+Test targets,Backend testing,10
