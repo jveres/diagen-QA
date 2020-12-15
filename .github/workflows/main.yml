@@ -21,5 +21,9 @@ jobs:
       - uses: actions/setup-node@v2.1.3
 
       # Runs a single command using the runners shell
-      - name: Run a npm install
+      - name: Run npm install
         run: npm i
+
+      # Runs sankey.js
+      - name: Run node sankey.js
+        run: node sankey.js
