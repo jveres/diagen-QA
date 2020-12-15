@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@alex.garcia/observable-prerender": "^0.2.1"
+  }
+}
