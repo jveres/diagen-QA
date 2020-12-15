@@ -1,0 +1,18 @@
+Berlin,Job Applications,102
+Barcelona,Job Applications,39
+Madrid,Job Applications,35
+Amsterdam,Job Applications,15
+Paris,Job Applications,14
+London,Job Applications,6
+Munich,Job Applications,5
+Brussels,Job Applications,4
+Dubai,Job Applications,3
+Dublin,Job Applications,3
+Other Cities,Job Applications,12
+Job Applications,No Response,189,orange
+Job Applications,Responded,49,purple
+Responded,Rejected,38
+Responded,Interviewed,11,red
+Interviewed,No Offer,8
+Interviewed,Declined Offer,5
+Interviewed,Accepted Offer,3
