@@ -19,13 +19,13 @@ Development standards,Technical documentation,37
 Development standards,Branching strategy,33
 Development standards,Project start checklist,33
 Development standards,Tech radar,50,orange
-QA,Architecture,400
+QA,Architecture,200
 Architecture,Architecture design,100
 Architecture,Emerging architecture,100
-Architecture design,Business arch,33
-Architecture design,Solution arch,33
-Architecture design,Software arch,33
-Architecture design,Security arch,33
+Architecture design,Business arch,25
+Architecture design,Solution arch,25
+Architecture design,Software arch,25
+Architecture design,Security arch,25
 QA,DevSecOps,400
 DevSecOps,Observability,100
 Observability,Logging,33
@@ -63,22 +63,22 @@ Non-functional testing,Resilience,50
 Non-functional testing,Compatibility,50
 Non-functional testing,Accessibility,50
 Non-functional testing,Performance,50
+Performance,Load test,15
+Performance,Stress test,15
+Performance,Volume test,15
 Non-functional testing,Scalability,50
-Performance,Load test,7
-Performance,Stress test,7
-Performance,Volume test,7
 Test types,Regression/Retest,20
 Test types,Exploratory test,20
 Test types,Smoke test,20
 Testing,Test process,270
-Test process,Test types, 50
-Test process,Test development methods, 50
-Test process,Test data management, 30
-Test process,Test design techniques, 30
-Test process,Manual test process, 30
-Test process,Test targets, 30
-Test process,Test reporting, 30
-Test process,Test environments, 30
+Test process,Test types,50
+Test process,Test development methods,50
+Test process,Test data management,30
+Test process,Test design techniques,30
+Test process,Manual test process,30
+Test process,Test targets,30
+Test process,Test reporting,30
+Test process,Test environments,30
 Test development methods,White/Grey/Black-box,20
 Test development methods,(A)TDD/BDD,20
 Test development methods,Risk-based testing,20
