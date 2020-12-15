@@ -27,3 +27,11 @@ jobs:
       # Runs sankey.js
       - name: Run node sankey.js
         run: node sankey.js
+
+      # Update image
+      - name: Update image
+        uses: test-room-7/action-update-file@v1
+        with:
+            file-path: chart.svg
+            commit-msg: Update chart.svg
+            github-token: ${{ secrets.GITHUB_TOKEN }}
