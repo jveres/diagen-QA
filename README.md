@@ -1,5 +1,5 @@
 # diagen
-Generate colorful sankey diagrams
+Generate sankey diagrams
 
 Based on https://observablehq.com/@jveres/colorful-flow-o-matic
 
