@@ -1,7 +1,7 @@
-QA,Requirement Engineering,200
-Requirement Engineering,Requirement types & structure,50
-Requirement Engineering,Issue types & workflows,100
-Requirement Engineering,DoRs/DoDs,50
+QA,Requirements Engineering,200
+Requirements Engineering,Requirement types & structure,50
+Requirements Engineering,Issue types & workflows,100
+Requirements Engineering,DoRs/DoDs,50
 QA,Culture & structure,300
 Culture & structure,CoP,100
 CoP,Product based,33
