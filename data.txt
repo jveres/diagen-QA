@@ -37,7 +37,7 @@ DevSecOps,Threat model,100
 DevSecOps,Defense in-depth measures,100
 DevSecOps,CI/CD/CD,100
 QC,CI/CD/CD,100
-QA,QC,1170
+QA,QC,1270
 QC,Testing,970,orange
 QC,Code reviews,50
 QC,Defect management,50
