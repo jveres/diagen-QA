@@ -23,10 +23,10 @@ QA,Architecture,300
 Architecture,Design,100
 Architecture,Domain modelling,100
 Architecture,Emerging architecture,100
-Architecture design,Business arch,25
-Architecture design,Solution arch,25
-Architecture design,Software arch,25
-Architecture design,Security arch,25
+Design,Business arch,25
+Design,Solution arch,25
+Design,Software arch,25
+Design,Security arch,25
 QA,DevSecOps,500
 DevSecOps,Observability,100
 Observability,Logging,33
