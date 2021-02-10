@@ -19,8 +19,9 @@ Development standards,Technical documentation,37
 Development standards,Branching strategy,33
 Development standards,Project start checklist,33
 Development standards,Tech radar,50,orange
-QA,Architecture,200
-Architecture,Architecture design,100
+QA,Architecture,300
+Architecture,Design,100
+Architecture,Domain modelling,100
 Architecture,Emerging architecture,100
 Architecture design,Business arch,25
 Architecture design,Solution arch,25
