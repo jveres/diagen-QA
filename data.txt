@@ -27,7 +27,7 @@ Design,Business arch,25
 Design,Solution arch,25
 Design,Software arch,25
 Design,Security arch,25
-QA,DevSecOps,500,blue
+QA,DevSecOps,500,#AABDF8
 DevSecOps,Observability,100
 Observability,Logging,33
 Observability,Metrics,33
