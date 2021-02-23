@@ -36,7 +36,7 @@ DevSecOps,Automation,100
 DevSecOps,Threat modelling,100
 DevSecOps,Defense in-depth measures,100
 DevSecOps,CI/CD,33
-DevSecOps,Deployment,33
+DevSecOps,Deployment,100
 QC,CI/CD,33
 QA,QC,1270,#F8CBAA
 QC,Testing,970,orange
