@@ -1,46 +1,43 @@
+QA,Architecture,300,#CDAAF8
+Architecture,Design,66
+Design,Business Architecture,33
+Design,Technical Architecture,33
+Architecture,Modelling,66
+Modelling,Problem space,33
+Modelling,Technical space,33
+Architecture,Discovery,66
+Discovery,Emerging architecture,33
+Discovery,Scouting,33
+QA,Development standards,200
+Development standards,Tech radar,50,orange
+Development standards,Secure coding,40
+Development standards,Coding standards,40
+Development standards,Branching strategy,33
+Development standards,Technical documentation,37
 QA,Requirements Engineering,200
 Requirements Engineering,Requirement types & structure,50
 Requirements Engineering,Issue types & workflows,50
 Requirements Engineering,Definition of Ready,50
 Requirements Engineering,Definition of Done,50
-QA,Culture & structure,300
-Culture & structure,Community of Practice,50
-Culture & structure,Community of Interest,50
-Culture & structure,Roles & responsibilities,50
-Culture & structure,Technical leadership,50
-Culture & structure,Education & training,50
-Culture & structure,Research & self-learning,50
-QA,Development standards,200
-Development standards,Coding standards,40
-Development standards,Secure coding,40
-Development standards,Technical documentation,37
-Development standards,Branching strategy,33
-Development standards,Tech radar,50,orange
-QA,Architecture,232,#CDAAF8
-Architecture,Design,66
-Architecture,Modelling,66
-Architecture,Discovery,100
-Design,Business Architecture,33
-Design,Technical Architecture,33
-Modelling,Problem space,33
-Modelling,Technical space,33
-QA,DevSecOps,600,#AABDF8
+QA,DevSecOps,300,#AABDF8
 DevSecOps,Observability,100
 Observability,Logging,33
 Observability,Metrics,33
 Observability,Tracing,33
+DevSecOps,AppSec,100
+AppSec,Threat modelling,50
+AppSec,Defense in-depth,50
 DevSecOps,Automation,100
-DevSecOps,Threat modelling,100
-DevSecOps,Defense in-depth measures,100
-DevSecOps,CI/CD,100
-DevSecOps,Deployment,100
-QC,CI/CD,100
-QA,QC,1270,#F8CBAA
+Automation,Deployment,50
+Deployment,Containerization,25
+Deployment,Orchestration,25
+Automation,CI/CD,50
+QA,QC,1170,#F8CBAA
 QC,Testing,970,orange
-QC,Code reviews,50
 QC,Defect management,50
 QC,Measurements & KPIs,50
 QC,Test plan,50
+QC,Code reviews,50
 Testing,Functional testing,400
 Functional testing,Pre-production testing,250
 Functional testing,In-production testing,150
@@ -84,3 +81,10 @@ Test development methods,Risk-based testing,20
 Test targets,Mobile app testing,10
 Test targets,Frontend testing,10
 Test targets,Backend testing,10
+QA,Culture & structure,300
+Culture & structure,Code reviews,50
+Culture & structure,Community of Practice & Interest,50
+Culture & structure,Roles & responsibilities,50
+Culture & structure,Technical leadership,50
+Culture & structure,Education & training,50
+Culture & structure,Research & self-learning,50
