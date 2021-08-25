@@ -1,32 +1,29 @@
 QA,Requirements Engineering,200
 Requirements Engineering,Requirement types & structure,50
-Requirements Engineering,Issue types & workflows,100
-Requirements Engineering,DoRs/DoDs,50
+Requirements Engineering,Issue types & workflows,50
+Requirements Engineering,Definition of Ready,50
+Requirements Engineering,Definition of Done,50
 QA,Culture & structure,300
-Culture & structure,CoP,100
-CoP,Product based,33
-CoP,Product-line based,33
-CoP,Test chapter,33
-Culture & structure,Roles & responsibilities,100
-Culture & structure,Education & training,100
-Roles & responsibilities,Team setup,33
-Roles & responsibilities,Ownership,33
-Roles & responsibilities,Self-learning,33
-QA,Development standards,233
+Culture & structure,Community of Practice,50
+Culture & structure,Community of Interest,50
+Culture & structure,Roles & responsibilities,50
+Culture & structure,Technical leadership,50
+Culture & structure,Education & training,50
+Culture & structure,Research & self-learning,50
+QA,Development standards,200
 Development standards,Coding standards,40
 Development standards,Secure coding,40
 Development standards,Technical documentation,37
 Development standards,Branching strategy,33
-Development standards,Project start checklist,33
 Development standards,Tech radar,50,orange
-QA,Architecture,300,#CDAAF8
-Architecture,Design,100
-Architecture,Domain modelling,100
-Architecture,Emerging architecture,100
-Design,Business arch,25
-Design,Solution arch,25
-Design,Software arch,25
-Design,Security arch,25
+QA,Architecture,232,#CDAAF8
+Architecture,Design,66
+Architecture,Modelling,66
+Architecture,Discovery,100
+Design,Business Architecture,33
+Design,Technical Architecture,33
+Modelling,Problem space,33
+Modelling,Technical space,33
 QA,DevSecOps,600,#AABDF8
 DevSecOps,Observability,100
 Observability,Logging,33
