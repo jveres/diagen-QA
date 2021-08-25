@@ -34,9 +34,9 @@ Deployment,Orchestration,25
 Automation,CI/CD,50
 QA,QC,1170,#F8CBAA
 QC,Testing,970,orange
+QC,Test plan,50
 QC,Defect management,50
 QC,Measurements & KPIs,50
-QC,Test plan,50
 QC,Code reviews,50
 Testing,Functional testing,400
 Functional testing,Pre-production testing,250
@@ -66,7 +66,7 @@ Non-functional testing,Scalability,50
 Test types,Regression/Retest,20
 Test types,Exploratory test,20
 Test types,Smoke test,20
-Testing,Test process,270
+Testing,Test process,270,silver
 Test process,Test types,50
 Test process,Test development methods,50
 Test process,Test data management,30
