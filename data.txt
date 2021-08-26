@@ -36,8 +36,8 @@ Observability,Logging,33
 Observability,Tracing,33
 Observability,Metrics,33
 Delivery,Deployment,100
-Quality assurance,Quality control,1170,#F8CBAA
-Quality control,Testing,970,orange
+Quality assurance,Quality control,1180,#F8CBAA
+Quality control,Testing,980,orange
 Quality control,Test plan,50
 Quality control,Defect management,50
 Quality control,Measurements,50
@@ -70,7 +70,7 @@ Non-functional testing,Scalability,50
 Test types,Regression/Retest,20
 Test types,Exploratory test,20
 Test types,Smoke test,20
-Testing,Test process,270,brown
+Testing,Test process,280,pink
 Test process,Test types,50
 Test process,Test development methods,50
 Test process,Test data management,30
