@@ -1,43 +1,47 @@
-QA,Architecture,300,#CDAAF8
-Architecture,Design,66
-Design,Business Architecture,33
-Design,Technical Architecture,33
-Architecture,Modelling,66
+Quality assurance,Architecture,180,#CDAAF8
+Architecture,Design,60
+Design,Business architecture,33
+Design,Technical architecture,33
+Architecture,Modelling,60
 Modelling,Problem space,33
+Problem space,Domain-driven,11
+Problem space,Business capabilities,11
+Problem space,Documentation as Code,11
 Modelling,Technical space,33
-Architecture,Discovery,66
+Technical space,Documentation as Code,33
+Architecture,Discovery,60
 Discovery,Emerging architecture,33
 Discovery,Scouting,33
-QA,Development standards,200
-Development standards,Tech radar,50,orange
-Development standards,Secure coding,40
-Development standards,Coding standards,40
-Development standards,Branching strategy,33
-Development standards,Technical documentation,37
-QA,Requirements Engineering,200
-Requirements Engineering,Requirement types & structure,50
-Requirements Engineering,Issue types & workflows,50
-Requirements Engineering,Definition of Ready,50
-Requirements Engineering,Definition of Done,50
-QA,DevSecOps,300,#AABDF8
-DevSecOps,Observability,100
+Quality assurance,Development,300
+Development,Tech radar,50,orange
+Development,Secure coding,50
+Development,Application security,50
+Application security,Threat modelling,25
+Application security,Defense in-depth,25
+Development,Coding standards,50
+Development,Branching strategy,50
+Development,Technical documentation,50
+Quality assurance,Requirements,250
+Requirements,Functional requirements,50
+Requirements,Non-functional requirements,50
+Requirements,Issue types & workflows,50
+Requirements,Definition of Ready,50
+Requirements,Definition of Done,50
+Quality assurance,Delivery,280,#AABDF8
+Delivery,Automation,80
+Automation,Infrastructure as Code,40
+Automation,CI/CD,40
+Delivery,Observability,100
 Observability,Logging,33
-Observability,Metrics,33
 Observability,Tracing,33
-DevSecOps,AppSec,100
-AppSec,Threat modelling,50
-AppSec,Defense in-depth,50
-DevSecOps,Automation,100
-Automation,Deployment,50
-Deployment,Containerization,25
-Deployment,Orchestration,25
-Automation,CI/CD,50
-QA,QC,1170,#F8CBAA
-QC,Testing,970,orange
-QC,Test plan,50
-QC,Defect management,50
-QC,Measurements & KPIs,50
-QC,Code reviews,50
+Observability,Metrics,33
+Delivery,Deployment,100
+Quality assurance,Quality control,1170,#F8CBAA
+Quality control,Testing,970,orange
+Quality control,Test plan,50
+Quality control,Defect management,50
+Quality control,Measurements,50
+Quality control,Code reviews,50
 Testing,Functional testing,400
 Functional testing,Pre-production testing,250
 Functional testing,In-production testing,150
@@ -66,7 +70,7 @@ Non-functional testing,Scalability,50
 Test types,Regression/Retest,20
 Test types,Exploratory test,20
 Test types,Smoke test,20
-Testing,Test process,270,silver
+Testing,Test process,270,brown
 Test process,Test types,50
 Test process,Test development methods,50
 Test process,Test data management,30
@@ -81,10 +85,10 @@ Test development methods,Risk-based testing,20
 Test targets,Mobile app testing,10
 Test targets,Frontend testing,10
 Test targets,Backend testing,10
-QA,Culture & structure,300
-Culture & structure,Code reviews,50
-Culture & structure,Community of Practice & Interest,50
-Culture & structure,Roles & responsibilities,50
-Culture & structure,Technical leadership,50
-Culture & structure,Education & training,50
-Culture & structure,Research & self-learning,50
+Quality assurance,Culture,300
+Culture,Code reviews,50
+Culture,Community of Practice & Interest,50
+Culture,Roles & responsibilities,50
+Culture,Technical leadership,50
+Culture,Education & training,50
+Culture,Research & self-learning,50
