@@ -22,7 +22,7 @@ Application security,Defense in-depth,25
 Development,Coding standards,50
 Development,Branching strategy,50
 Development,Contract driven,50
-Contract driven,API first,50
+Contract driven,API design first,50
 API first,OpenAPI,25
 API first,AsyncAPI,25
 Development,Technical documentation,50
