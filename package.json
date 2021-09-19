@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "start": "node sankey.js",
+    "dev": "nodemon --watch data.txt --exec 'npm start'"
+  },
   "dependencies": {
     "@alex.garcia/observable-prerender": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }

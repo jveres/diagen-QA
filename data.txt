@@ -4,15 +4,16 @@ Design,Business architecture,33
 Design,Technical architecture,33
 Architecture,Modelling,60
 Modelling,Problem space,33
-Problem space,Domain-driven,11
+Problem space,Domain driven,11
 Problem space,Business capabilities,11
 Problem space,Documentation as Code,11
 Modelling,Technical space,33
-Technical space,Documentation as Code,33
+Technical space,Documentation as Code,17
+Technical space,Lightweight as C4,16
 Architecture,Discovery,60
-Discovery,Emerging architecture,33
+Discovery,Always architect,33
 Discovery,Scouting,33
-Quality assurance,Development,300
+Quality assurance,Development,350,#fdc9c9
 Development,Tech radar,50,orange
 Development,Secure coding,50
 Development,Application security,50
@@ -20,6 +21,10 @@ Application security,Threat modelling,25
 Application security,Defense in-depth,25
 Development,Coding standards,50
 Development,Branching strategy,50
+Development,Contract driven,50
+Contract driven,API first,50
+API first,OpenAPI,25
+API first,AsyncAPI,25
 Development,Technical documentation,50
 Quality assurance,Requirements,250
 Requirements,Functional requirements,50
